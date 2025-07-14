@@ -1,6 +1,6 @@
 {
   "name": "@ulisesv/country-division-city-database",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package containing comprehensive data of Countries, States (or geographical subregion), and Cities using ECMAScript exports. ",
   "homepage": "https://github.com/ulisesvina/region-subregion-list#readme",
   "bugs": {
