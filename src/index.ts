@@ -1,7 +1,10 @@
 import { readFileSync } from "fs";
-import { join } from "path";
+import { join, dirname } from "path";
+import { fileURLToPath } from "url";
 import addAllCountriesToMap from "./lib/addToMap";
 import type { Country, Division, City } from "./types";
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
 
 const map = addAllCountriesToMap();
 
@@ -15,7 +18,7 @@ export const getAllCountries = (): Map<
 export const getCountryByISO2 = (iso2: string): Country | undefined => {
   try {
     const filePath = join(
-      import.meta.dir,
+      __dirname,
       "../",
       "data",
       `${iso2.toLowerCase()}.json`
@@ -29,7 +32,7 @@ export const getCountryByISO2 = (iso2: string): Country | undefined => {
 export const getDivisionsByISO2 = (iso2: string): Division[] | undefined => {
   try {
     const filePath = join(
-      import.meta.dir,
+      __dirname,
       "../",
       "data",
       `${iso2.toLowerCase()}.json`

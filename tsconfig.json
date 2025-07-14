@@ -1,19 +1,17 @@
 {
   "compilerOptions": {
-    "target": "ESNext",
-    "resolveJsonModule": true,
-    "module": "ESNext",
     "declaration": true,
-    "declarationMap": true,
-    "emitDeclarationOnly": false,
+    "declarationDir": "dist/types",
+    "emitDeclarationOnly": true,
     "outDir": "dist",
-    "rootDir": "src",
-    "strict": true,
-    "esModuleInterop": true,
+    "module": "ESNext",
+    "target": "ES2020",
     "moduleResolution": "Node",
-    "skipLibCheck": true
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
   },
-  "types": ["bun-types"],
+  "types": ["node"],
   "include": ["src"],
   "exclude": ["node_modules", "dist"]
 }
