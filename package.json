@@ -1,7 +1,7 @@
 {
   "name": "@ulisesv/country-division-city-database",
   "version": "1.0.1",
-  "description": "Package containing comprehensive data of Countries, States (or geographical subregion), and Cities using ECMAScript exports. ",
+  "description": "Package containing comprehensive data of Countries, States (or geographical subregion), and Cities using ECMAScript exports.",
   "homepage": "https://github.com/ulisesvina/region-subregion-list#readme",
   "bugs": {
     "url": "https://github.com/ulisesvina/region-subregion-list/issues"
@@ -13,16 +13,21 @@
   "license": "GPL-3.0",
   "author": "Ulises Viña",
   "type": "module",
-  "main": "src/index.ts",
-  "types": "dist/index.d.ts",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
       "default": "./dist/index.js"
     }
   },
+  "files": [
+    "dist",
+    "data"
+  ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc",
+    "prepublishOnly": "tsc"
   },
   "devDependencies": {
     "@types/node": "^24.0.13",
