@@ -1,0 +1,52 @@
+{
+  "id": 189,
+  "name": "Saint-Barthelemy",
+  "iso3": "BLM",
+  "iso2": "BL",
+  "numeric_code": "652",
+  "phonecode": "590",
+  "capital": "Gustavia",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "currency_symbol": "€",
+  "tld": ".bl",
+  "native": "Saint-Barthélemy",
+  "region": "Americas",
+  "region_id": 2,
+  "subregion": "Caribbean",
+  "subregion_id": 7,
+  "nationality": "Barthelemois",
+  "timezones": [
+    {
+      "zoneName": "America/St_Barthelemy",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "translations": {
+    "br": "Saint-Barthélemy",
+    "ko": "생바르텔레미",
+    "pt-BR": "São Bartolomeu",
+    "pt": "São Bartolomeu",
+    "nl": "Saint Barthélemy",
+    "hr": "Saint Barthélemy",
+    "fa": "سن-بارتلمی",
+    "de": "Saint-Barthélemy",
+    "es": "San Bartolomé",
+    "fr": "Saint-Barthélemy",
+    "ja": "サン・バルテルミー",
+    "it": "Antille Francesi",
+    "zh-CN": "圣巴泰勒米",
+    "tr": "Saint Barthélemy",
+    "ru": "Сен-Бартелеми",
+    "uk": "Сен-Бартелемі",
+    "pl": "Saint-Barthelemy"
+  },
+  "latitude": "18.50000000",
+  "longitude": "-63.41666666",
+  "emoji": "🇧🇱",
+  "emojiU": "U+1F1E7 U+1F1F1",
+  "divisions": []
+}

@@ -1,0 +1,179 @@
+{
+  "id": 162,
+  "name": "Niue",
+  "iso3": "NIU",
+  "iso2": "NU",
+  "numeric_code": "570",
+  "phonecode": "683",
+  "capital": "Alofi",
+  "currency": "NZD",
+  "currency_name": "New Zealand dollar",
+  "currency_symbol": "$",
+  "tld": ".nu",
+  "native": "Niuē",
+  "region": "Oceania",
+  "region_id": 5,
+  "subregion": "Polynesia",
+  "subregion_id": 22,
+  "nationality": "Niuean",
+  "timezones": [
+    {
+      "zoneName": "Pacific/Niue",
+      "gmtOffset": -39600,
+      "gmtOffsetName": "UTC-11:00",
+      "abbreviation": "NUT",
+      "tzName": "Niue Time"
+    }
+  ],
+  "translations": {
+    "br": "Niue",
+    "ko": "니우에",
+    "pt-BR": "Niue",
+    "pt": "Niue",
+    "nl": "Niue",
+    "hr": "Niue",
+    "fa": "نیووی",
+    "de": "Niue",
+    "es": "Niue",
+    "fr": "Niue",
+    "ja": "ニウエ",
+    "it": "Niue",
+    "zh-CN": "纽埃",
+    "tr": "Niue",
+    "ru": "Ниуэ",
+    "uk": "Ніуе",
+    "pl": "Niue"
+  },
+  "latitude": "-19.03333333",
+  "longitude": "-169.86666666",
+  "emoji": "🇳🇺",
+  "emojiU": "U+1F1F3 U+1F1FA",
+  "divisions": [
+    {
+      "id": 5435,
+      "name": "Alofi North",
+      "state_code": "14",
+      "latitude": "-19.04889770",
+      "longitude": "-169.91909050",
+      "type": "village",
+      "cities": []
+    },
+    {
+      "id": 5434,
+      "name": "Alofi South",
+      "state_code": "13",
+      "latitude": "-19.07359680",
+      "longitude": "-169.94804080",
+      "type": "village",
+      "cities": []
+    },
+    {
+      "id": 5432,
+      "name": "Avatele",
+      "state_code": "11",
+      "latitude": "-19.12373020",
+      "longitude": "-169.91656780",
+      "type": "village",
+      "cities": []
+    },
+    {
+      "id": 5430,
+      "name": "Hakupu",
+      "state_code": "09",
+      "latitude": "-19.12872750",
+      "longitude": "-169.84921230",
+      "type": "village",
+      "cities": []
+    },
+    {
+      "id": 5425,
+      "name": "Hikutavake",
+      "state_code": "04",
+      "latitude": "-18.97755110",
+      "longitude": "-169.89445360",
+      "type": "village",
+      "cities": []
+    },
+    {
+      "id": 5428,
+      "name": "Lakepa",
+      "state_code": "07",
+      "latitude": "-19.00964250",
+      "longitude": "-169.81200460",
+      "type": "village",
+      "cities": []
+    },
+    {
+      "id": 5429,
+      "name": "Liku",
+      "state_code": "08",
+      "latitude": "-19.05369070",
+      "longitude": "-169.79425910",
+      "type": "village",
+      "cities": []
+    },
+    {
+      "id": 5422,
+      "name": "Makefu",
+      "state_code": "01",
+      "latitude": "-19.00326180",
+      "longitude": "-169.92047320",
+      "type": "village",
+      "cities": []
+    },
+    {
+      "id": 5427,
+      "name": "Mutalau",
+      "state_code": "06",
+      "latitude": "-18.96393850",
+      "longitude": "-169.83278630",
+      "type": "village",
+      "cities": []
+    },
+    {
+      "id": 5424,
+      "name": "Namukulu",
+      "state_code": "03",
+      "latitude": "-18.98122750",
+      "longitude": "-169.90294220",
+      "type": "village",
+      "cities": []
+    },
+    {
+      "id": 5433,
+      "name": "Tamakautoga",
+      "state_code": "12",
+      "latitude": "-19.10198510",
+      "longitude": "-169.93017210",
+      "type": "village",
+      "cities": []
+    },
+    {
+      "id": 5426,
+      "name": "Toi",
+      "state_code": "05",
+      "latitude": "-18.97376000",
+      "longitude": "-169.86297740",
+      "type": "village",
+      "cities": []
+    },
+    {
+      "id": 5423,
+      "name": "Tuapa",
+      "state_code": "02",
+      "latitude": "-18.99125070",
+      "longitude": "-169.90920780",
+      "type": "village",
+      "cities": []
+    },
+    {
+      "id": 5431,
+      "name": "Vaiea",
+      "state_code": "10",
+      "latitude": "-19.13083580",
+      "longitude": "-169.89380120",
+      "type": "village",
+      "cities": []
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 52,
+  "name": "Cook Islands",
+  "iso3": "COK",
+  "iso2": "CK",
+  "numeric_code": "184",
+  "phonecode": "682",
+  "capital": "Avarua",
+  "currency": "NZD",
+  "currency_name": "New Zealand dollar",
+  "currency_symbol": "$",
+  "tld": ".ck",
+  "native": "Cook Islands",
+  "region": "Oceania",
+  "region_id": 5,
+  "subregion": "Polynesia",
+  "subregion_id": 22,
+  "nationality": "Cook Island",
+  "timezones": [
+    {
+      "zoneName": "Pacific/Rarotonga",
+      "gmtOffset": -36000,
+      "gmtOffsetName": "UTC-10:00",
+      "abbreviation": "CKT",
+      "tzName": "Cook Island Time"
+    }
+  ],
+  "translations": {
+    "br": "Inizi Cook",
+    "ko": "쿡 제도",
+    "pt-BR": "Ilhas Cook",
+    "pt": "Ilhas Cook",
+    "nl": "Cookeilanden",
+    "hr": "Cookovo Otočje",
+    "fa": "جزایر کوک",
+    "de": "Cookinseln",
+    "es": "Islas Cook",
+    "fr": "Îles Cook",
+    "ja": "クック諸島",
+    "it": "Isole Cook",
+    "zh-CN": "库克群岛",
+    "tr": "Cook Adalari",
+    "ru": "Острова Кука",
+    "uk": "Острови Кука",
+    "pl": "Wyspy Cooka"
+  },
+  "latitude": "-21.23333333",
+  "longitude": "-159.76666666",
+  "emoji": "🇨🇰",
+  "emojiU": "U+1F1E8 U+1F1F0",
+  "divisions": []
+}

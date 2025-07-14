@@ -1,0 +1,185 @@
+{
+  "id": 5,
+  "name": "American Samoa",
+  "iso3": "ASM",
+  "iso2": "AS",
+  "numeric_code": "016",
+  "phonecode": "1",
+  "capital": "Pago Pago",
+  "currency": "USD",
+  "currency_name": "United States dollar",
+  "currency_symbol": "$",
+  "tld": ".as",
+  "native": "American Samoa",
+  "region": "Oceania",
+  "region_id": 5,
+  "subregion": "Polynesia",
+  "subregion_id": 22,
+  "nationality": "American Samoan",
+  "timezones": [
+    {
+      "zoneName": "Pacific/Pago_Pago",
+      "gmtOffset": -39600,
+      "gmtOffsetName": "UTC-11:00",
+      "abbreviation": "SST",
+      "tzName": "Samoa Standard Time"
+    }
+  ],
+  "translations": {
+    "br": "Samoa Amerikan",
+    "ko": "아메리칸사모아",
+    "pt-BR": "Samoa Americana",
+    "pt": "Samoa Americana",
+    "nl": "Amerikaans Samoa",
+    "hr": "Američka Samoa",
+    "fa": "ساموآی آمریکا",
+    "de": "Amerikanisch-Samoa",
+    "es": "Samoa Americana",
+    "fr": "Samoa américaines",
+    "ja": "アメリカ領サモア",
+    "it": "Samoa Americane",
+    "zh-CN": "美属萨摩亚",
+    "tr": "Amerikan Samoasi",
+    "ru": "Американское Самоа",
+    "uk": "Американське Самоа",
+    "pl": "Samoa Amerykańskie"
+  },
+  "latitude": "-14.33333333",
+  "longitude": "-170.00000000",
+  "emoji": "🇦🇸",
+  "emojiU": "U+1F1E6 U+1F1F8",
+  "divisions": [
+    {
+      "id": 5375,
+      "name": "Eastern",
+      "state_code": "02",
+      "latitude": "-14.27560390",
+      "longitude": "-170.80855920",
+      "type": "district",
+      "cities": [
+        {
+          "id": 154920,
+          "name": "Ituʻau",
+          "latitude": "-14.30616430",
+          "longitude": "-170.80691440"
+        },
+        {
+          "id": 154921,
+          "name": "Maʻoputasi",
+          "latitude": "-14.25216850",
+          "longitude": "-170.74187670"
+        },
+        {
+          "id": 154924,
+          "name": "Saʻole",
+          "latitude": "-14.29995700",
+          "longitude": "-170.61763370"
+        },
+        {
+          "id": 154923,
+          "name": "Sua",
+          "latitude": "-14.27710880",
+          "longitude": "-170.71442630"
+        },
+        {
+          "id": 154922,
+          "name": "Vaifanua",
+          "latitude": "-14.25578040",
+          "longitude": "-170.76301810"
+        }
+      ]
+    },
+    {
+      "id": 5376,
+      "name": "Manuʻa",
+      "state_code": "03",
+      "latitude": "-14.21126410",
+      "longitude": "-169.71118920",
+      "type": "district",
+      "cities": [
+        {
+          "id": 154928,
+          "name": "Faleasao",
+          "latitude": "-14.20385490",
+          "longitude": "-169.54907370"
+        },
+        {
+          "id": 154929,
+          "name": "Fitiuta",
+          "latitude": "-14.20386340",
+          "longitude": "-169.51690440"
+        },
+        {
+          "id": 154925,
+          "name": "Ofu",
+          "latitude": "-14.17135950",
+          "longitude": "-169.71939120"
+        },
+        {
+          "id": 154926,
+          "name": "Olosega",
+          "latitude": "-14.17422270",
+          "longitude": "-169.63981240"
+        },
+        {
+          "id": 154927,
+          "name": "Tau",
+          "latitude": "-14.24215010",
+          "longitude": "-169.55101650"
+        }
+      ]
+    },
+    {
+      "id": 5378,
+      "name": "Rose",
+      "state_code": "05",
+      "latitude": "-14.54491610",
+      "longitude": "-168.17632920",
+      "type": "atoll",
+      "cities": []
+    },
+    {
+      "id": 5377,
+      "name": "Swains",
+      "state_code": "04",
+      "latitude": "-11.05658780",
+      "longitude": "-171.08829090",
+      "type": "atoll",
+      "cities": []
+    },
+    {
+      "id": 5374,
+      "name": "Western",
+      "state_code": "01",
+      "latitude": "-14.33307510",
+      "longitude": "-170.94315020",
+      "type": "district",
+      "cities": [
+        {
+          "id": 154916,
+          "name": "Lealataua",
+          "latitude": "-14.32261520",
+          "longitude": "-170.90849930"
+        },
+        {
+          "id": 154917,
+          "name": "Leasina",
+          "latitude": "-14.29581640",
+          "longitude": "-170.80459320"
+        },
+        {
+          "id": 154918,
+          "name": "Tualatai",
+          "latitude": "-14.37923540",
+          "longitude": "-170.81033120"
+        },
+        {
+          "id": 154919,
+          "name": "Tualauta",
+          "latitude": "-14.35876890",
+          "longitude": "-170.75583320"
+        }
+      ]
+    }
+  ]
+}

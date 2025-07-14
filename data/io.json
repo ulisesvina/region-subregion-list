@@ -1,0 +1,52 @@
+{
+  "id": 32,
+  "name": "British Indian Ocean Territory",
+  "iso3": "IOT",
+  "iso2": "IO",
+  "numeric_code": "086",
+  "phonecode": "246",
+  "capital": "Diego Garcia",
+  "currency": "USD",
+  "currency_name": "United States dollar",
+  "currency_symbol": "$",
+  "tld": ".io",
+  "native": "British Indian Ocean Territory",
+  "region": "Africa",
+  "region_id": 1,
+  "subregion": "Eastern Africa",
+  "subregion_id": 4,
+  "nationality": "BIOT",
+  "timezones": [
+    {
+      "zoneName": "Indian/Chagos",
+      "gmtOffset": 21600,
+      "gmtOffsetName": "UTC+06:00",
+      "abbreviation": "IOT",
+      "tzName": "Indian Ocean Time"
+    }
+  ],
+  "translations": {
+    "br": "Tiriad Meurvor Indez Breizh-Veur",
+    "ko": "영국령 인도양 지역",
+    "pt-BR": "Território Britânico do Oceano íÍdico",
+    "pt": "Território Britânico do Oceano Índico",
+    "nl": "Britse Gebieden in de Indische Oceaan",
+    "hr": "Britanski Indijskooceanski teritorij",
+    "fa": "قلمرو بریتانیا در اقیانوس هند",
+    "de": "Britisches Territorium im Indischen Ozean",
+    "es": "Territorio Británico del Océano Índico",
+    "fr": "Territoire britannique de l'océan Indien",
+    "ja": "イギリス領インド洋地域",
+    "it": "Territorio britannico dell'oceano indiano",
+    "zh-CN": "英属印度洋领地",
+    "tr": "Britanya Hint Okyanusu Topraklari",
+    "ru": "Британская территория в Индийском океане",
+    "uk": "Британська територія в Індійському океані",
+    "pl": "Brytyjskie Terytorium Oceanu Indyjskiego"
+  },
+  "latitude": "-6.00000000",
+  "longitude": "71.50000000",
+  "emoji": "🇮🇴",
+  "emojiU": "U+1F1EE U+1F1F4",
+  "divisions": []
+}

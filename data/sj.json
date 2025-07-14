@@ -1,0 +1,52 @@
+{
+  "id": 211,
+  "name": "Svalbard and Jan Mayen Islands",
+  "iso3": "SJM",
+  "iso2": "SJ",
+  "numeric_code": "744",
+  "phonecode": "47",
+  "capital": "Longyearbyen",
+  "currency": "NOK",
+  "currency_name": "Norwegian krone",
+  "currency_symbol": "ko",
+  "tld": ".sj",
+  "native": "Svalbard og Jan Mayen",
+  "region": "Europe",
+  "region_id": 4,
+  "subregion": "Northern Europe",
+  "subregion_id": 18,
+  "nationality": "Svalbard",
+  "timezones": [
+    {
+      "zoneName": "Arctic/Longyearbyen",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "translations": {
+    "br": "Svalbard ha Enez Jan Mayen",
+    "ko": "스발바르 얀마옌 제도",
+    "pt-BR": "Svalbard",
+    "pt": "Svalbard",
+    "nl": "Svalbard en Jan Mayen",
+    "hr": "Svalbard i Jan Mayen",
+    "fa": "سوالبارد و یان ماین",
+    "de": "Svalbard und Jan Mayen",
+    "es": "Islas Svalbard y Jan Mayen",
+    "fr": "Svalbard et Jan Mayen",
+    "ja": "スヴァールバル諸島およびヤンマイエン島",
+    "it": "Svalbard e Jan Mayen",
+    "zh-CN": "斯瓦尔巴和扬马延群岛",
+    "tr": "Svalbard Ve Jan Mayen",
+    "ru": "Шпицберген и острова Ян-Майен",
+    "uk": "Шпіцберген та острови Ян-Майєн",
+    "pl": "Wyspy Svalbard i Jan Mayen"
+  },
+  "latitude": "78.00000000",
+  "longitude": "20.00000000",
+  "emoji": "🇸🇯",
+  "emojiU": "U+1F1F8 U+1F1EF",
+  "divisions": []
+}

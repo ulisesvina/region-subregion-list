@@ -1,0 +1,161 @@
+{
+  "id": 91,
+  "name": "Guernsey",
+  "iso3": "GGY",
+  "iso2": "GG",
+  "numeric_code": "831",
+  "phonecode": "44",
+  "capital": "St Peter Port",
+  "currency": "GBP",
+  "currency_name": "British pound",
+  "currency_symbol": "£",
+  "tld": ".gg",
+  "native": "Guernsey",
+  "region": "Europe",
+  "region_id": 4,
+  "subregion": "Northern Europe",
+  "subregion_id": 18,
+  "nationality": "Channel Island",
+  "timezones": [
+    {
+      "zoneName": "Europe/Guernsey",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "translations": {
+    "br": "Gwernenez",
+    "ko": "건지, 올더니",
+    "pt-BR": "Guernsey",
+    "pt": "Guernsey",
+    "nl": "Guernsey",
+    "hr": "Guernsey",
+    "fa": "گرنزی",
+    "de": "Guernsey",
+    "es": "Guernsey",
+    "fr": "Guernesey",
+    "ja": "ガーンジー",
+    "it": "Guernsey",
+    "zh-CN": "根西岛",
+    "tr": "Alderney",
+    "ru": "Гернси и Олдерни",
+    "uk": "Гернсі та Олдерні",
+    "pl": "Guernsey i Alderney"
+  },
+  "latitude": "49.46666666",
+  "longitude": "-2.58333333",
+  "emoji": "🇬🇬",
+  "emojiU": "U+1F1EC U+1F1EC",
+  "divisions": [
+    {
+      "id": 5389,
+      "name": "Alderney",
+      "state_code": "04",
+      "latitude": "49.71637100",
+      "longitude": "-2.24033700",
+      "type": "parish",
+      "cities": []
+    },
+    {
+      "id": 5386,
+      "name": "Castel",
+      "state_code": "01",
+      "latitude": "49.46663810",
+      "longitude": "-2.63785010",
+      "type": "parish",
+      "cities": []
+    },
+    {
+      "id": 5387,
+      "name": "Forest",
+      "state_code": "02",
+      "latitude": "49.42677930",
+      "longitude": "-2.61700450",
+      "type": "parish",
+      "cities": []
+    },
+    {
+      "id": 5392,
+      "name": "Sark",
+      "state_code": "07",
+      "latitude": "49.42542520",
+      "longitude": "-2.40995270",
+      "type": "parish",
+      "cities": []
+    },
+    {
+      "id": 5388,
+      "name": "St Andrew",
+      "state_code": "03",
+      "latitude": "49.45058530",
+      "longitude": "-2.60204130",
+      "type": "parish",
+      "cities": []
+    },
+    {
+      "id": 5390,
+      "name": "St Martin",
+      "state_code": "05",
+      "latitude": "49.43376590",
+      "longitude": "-2.59799650",
+      "type": "parish",
+      "cities": []
+    },
+    {
+      "id": 5391,
+      "name": "St Peter Port",
+      "state_code": "06",
+      "latitude": "49.45922770",
+      "longitude": "-2.58609300",
+      "type": "parish",
+      "cities": []
+    },
+    {
+      "id": 5393,
+      "name": "St Pierre du Bois",
+      "state_code": "08",
+      "latitude": "49.44119220",
+      "longitude": "-2.68438550",
+      "type": "parish",
+      "cities": []
+    },
+    {
+      "id": 5394,
+      "name": "St Sampson",
+      "state_code": "09",
+      "latitude": "49.48442020",
+      "longitude": "-2.58103190",
+      "type": "parish",
+      "cities": []
+    },
+    {
+      "id": 5395,
+      "name": "St Saviour",
+      "state_code": "10",
+      "latitude": "49.45114440",
+      "longitude": "-2.65977520",
+      "type": "parish",
+      "cities": []
+    },
+    {
+      "id": 5396,
+      "name": "Torteval",
+      "state_code": "11",
+      "latitude": "49.42885870",
+      "longitude": "-2.68990940",
+      "type": "parish",
+      "cities": []
+    },
+    {
+      "id": 5397,
+      "name": "Vale",
+      "state_code": "12",
+      "latitude": "49.48846050",
+      "longitude": "-2.58075770",
+      "type": "parish",
+      "cities": []
+    }
+  ]
+}

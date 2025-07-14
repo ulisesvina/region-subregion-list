@@ -1,0 +1,125 @@
+{
+  "id": 184,
+  "name": "Saint Helena",
+  "iso3": "SHN",
+  "iso2": "SH",
+  "numeric_code": "654",
+  "phonecode": "290",
+  "capital": "Jamestown",
+  "currency": "SHP",
+  "currency_name": "Saint Helena pound",
+  "currency_symbol": "£",
+  "tld": ".sh",
+  "native": "Saint Helena",
+  "region": "Africa",
+  "region_id": 1,
+  "subregion": "Western Africa",
+  "subregion_id": 3,
+  "nationality": "Saint Helenian",
+  "timezones": [
+    {
+      "zoneName": "Atlantic/St_Helena",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "translations": {
+    "br": "Saint Helena, Ascension ha Tristan da Cunha",
+    "ko": "세인트헬레나",
+    "pt-BR": "Santa Helena",
+    "pt": "Santa Helena",
+    "nl": "Sint-Helena",
+    "hr": "Sveta Helena",
+    "fa": "سنت هلنا، اسنشن و تریستان دا کونا",
+    "de": "Sankt Helena",
+    "es": "Santa Helena",
+    "fr": "Sainte-Hélène",
+    "ja": "セントヘレナ・アセンションおよびトリスタンダクーニャ",
+    "it": "Sant'Elena",
+    "zh-CN": "圣赫勒拿",
+    "tr": "Saint Helena",
+    "ru": "Святая Елена",
+    "uk": "Свята Єлена",
+    "pl": "Święta Helena"
+  },
+  "latitude": "-15.95000000",
+  "longitude": "-5.70000000",
+  "emoji": "🇸🇭",
+  "emojiU": "U+1F1F8 U+1F1ED",
+  "divisions": [
+    {
+      "id": 5440,
+      "name": "Alarm Forest",
+      "state_code": "01",
+      "latitude": "-15.94671440",
+      "longitude": "-5.72447520",
+      "type": "district",
+      "cities": []
+    },
+    {
+      "id": 5441,
+      "name": "Blue Hill",
+      "state_code": "02",
+      "latitude": "-15.98354720",
+      "longitude": "-5.79656520",
+      "type": "district",
+      "cities": []
+    },
+    {
+      "id": 5442,
+      "name": "Half Tree Hollow",
+      "state_code": "03",
+      "latitude": "-15.93468450",
+      "longitude": "-5.73134770",
+      "type": "district",
+      "cities": []
+    },
+    {
+      "id": 5443,
+      "name": "Jamestown",
+      "state_code": "04",
+      "latitude": "-15.92883080",
+      "longitude": "-5.72033380",
+      "type": "district",
+      "cities": []
+    },
+    {
+      "id": 5444,
+      "name": "Levelwood",
+      "state_code": "05",
+      "latitude": "-15.97475430",
+      "longitude": "-5.70960800",
+      "type": "district",
+      "cities": []
+    },
+    {
+      "id": 5445,
+      "name": "Longwood",
+      "state_code": "06",
+      "latitude": "-15.94458630",
+      "longitude": "-5.69502720",
+      "type": "district",
+      "cities": []
+    },
+    {
+      "id": 5447,
+      "name": "Saint Paul's",
+      "state_code": "08",
+      "latitude": "-15.98695810",
+      "longitude": "-5.78096580",
+      "type": "district",
+      "cities": []
+    },
+    {
+      "id": 5446,
+      "name": "Sandy Bay",
+      "state_code": "07",
+      "latitude": "-15.99187410",
+      "longitude": "-5.73991510",
+      "type": "district",
+      "cities": []
+    }
+  ]
+}

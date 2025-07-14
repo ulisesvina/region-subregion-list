@@ -1,0 +1,52 @@
+{
+  "id": 190,
+  "name": "Saint-Martin (French part)",
+  "iso3": "MAF",
+  "iso2": "MF",
+  "numeric_code": "663",
+  "phonecode": "590",
+  "capital": "Marigot",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "currency_symbol": "€",
+  "tld": ".mf",
+  "native": "Saint-Martin",
+  "region": "Americas",
+  "region_id": 2,
+  "subregion": "Caribbean",
+  "subregion_id": 7,
+  "nationality": "Saint-Martinoise",
+  "timezones": [
+    {
+      "zoneName": "America/Marigot",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "translations": {
+    "br": "Saint-Martin",
+    "ko": "세인트마틴 섬",
+    "pt-BR": "Saint Martin",
+    "pt": "Ilha São Martinho",
+    "nl": "Saint-Martin",
+    "hr": "Sveti Martin",
+    "fa": "سینت مارتن",
+    "de": "Saint Martin",
+    "es": "Saint Martin",
+    "fr": "Saint-Martin",
+    "ja": "サン・マルタン（フランス領）",
+    "it": "Saint Martin",
+    "zh-CN": "密克罗尼西亚",
+    "tr": "Saint Martin",
+    "ru": "Сен-Мартен (французская часть)",
+    "uk": "Сен-Мартен (французька частина)",
+    "pl": "Saint-Martin (część francuska)"
+  },
+  "latitude": "18.08333333",
+  "longitude": "-63.95000000",
+  "emoji": "🇲🇫",
+  "emojiU": "U+1F1F2 U+1F1EB",
+  "divisions": []
+}
